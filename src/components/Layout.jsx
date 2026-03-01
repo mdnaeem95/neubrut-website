@@ -87,12 +87,14 @@ export function Footer() {
           <Link to="/app/ledgr">Ledgr</Link>
           <Link to="/app/block">Block</Link>
           <Link to="/app/fokus">Fokus</Link>
+          <Link to="/app/subtrack">SubTrack</Link>
         </div>
         <div className="footer-col">
           <h4>Legal</h4>
           <Link to="/legal/privacy-ledgr">Privacy — Ledgr</Link>
           <Link to="/legal/privacy-block">Privacy — Block</Link>
           <Link to="/legal/privacy-fokus">Privacy — Fokus</Link>
+          <Link to="/legal/privacy-subtrack">Privacy — SubTrack</Link>
         </div>
         <div className="footer-col">
           <h4>Connect</h4>

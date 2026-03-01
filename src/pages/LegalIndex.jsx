@@ -10,6 +10,8 @@ const LEGAL_CARDS = [
   { title: "Terms of Use — Block", desc: "Terms and conditions for Block.", path: "/legal/terms-block", color: "var(--pink)" },
   { title: "Privacy Policy — Fokus", desc: "How Fokus handles your data.", path: "/legal/privacy-fokus", color: "var(--teal)" },
   { title: "Terms of Use — Fokus", desc: "Terms and conditions for Fokus.", path: "/legal/terms-fokus", color: "var(--teal)" },
+  { title: "Privacy Policy — SubTrack", desc: "How SubTrack handles your data.", path: "/legal/privacy-subtrack", color: "var(--orange)" },
+  { title: "Terms of Use — SubTrack", desc: "Terms and conditions for SubTrack.", path: "/legal/terms-subtrack", color: "var(--orange)" },
 ];
 
 export default function LegalIndex() {

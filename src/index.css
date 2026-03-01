@@ -6,6 +6,7 @@
   --blue: #4D96FF;
   --green: #6BCB77;
   --teal: #4ECDC4;
+  --orange: #FF8A50;
   --red: #FF6B6B;
   --border: 3px solid var(--black);
   --shadow: 6px 6px 0 var(--black);
@@ -91,6 +92,7 @@ body {
 
 .btn-pink { background: var(--pink); }
 .btn-teal { background: var(--teal); }
+.btn-orange { background: var(--orange); }
 .btn-cream { background: var(--cream); }
 .btn-blue { background: var(--blue); }
 .btn-outline { background: var(--cream); }
